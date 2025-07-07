@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Product preview card screenshot](./assets/screenshot.jpg)
+![Product preview card screenshot](./src/assets/screenshot.jpg)
 
 ### Links
 
